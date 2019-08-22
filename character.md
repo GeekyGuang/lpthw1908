@@ -16,3 +16,4 @@
 16. \ : backslash
 17. """ : triple-quotes
 18. ''' : triple-single-quotes
+19. () : parenthesis
