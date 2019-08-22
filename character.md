@@ -13,3 +13,6 @@
 13. _ : underscore 
 14. = : equals
 15. , : comma
+16. \ : backslash
+17. """ : triple-quotes
+18. ''' : triple-single-quotes
