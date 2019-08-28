@@ -23,3 +23,4 @@
 23. ASCII : American Standard Code for Information Interchange
 24. unicode : universal encoding 32 bits
 25. UTF-8 : Unicode Transformation Format 8 Bits.（常用字符用8bits, 其他可拓展）
+26. 16进制 hexadecimal
