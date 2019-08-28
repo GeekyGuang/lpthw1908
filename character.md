@@ -18,3 +18,5 @@
 18. ''' : triple-single-quotes
 19. () : parenthesis
 20. . : dot / period
+21. *args (asterisk args)
+22. : (colon)
