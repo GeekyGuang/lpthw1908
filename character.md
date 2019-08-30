@@ -26,3 +26,4 @@
 26. 16进制 hexadecimal
 27. != (not equal)
 28. == (equal)
+29. [ left bracket ] right bracket
