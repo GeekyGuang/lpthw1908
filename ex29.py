@@ -37,3 +37,5 @@ if people >= cats and people >= dogs:
 
 if people < cats or people < dogs:
     print("The world is lovely.")
+
+
