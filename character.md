@@ -24,3 +24,5 @@
 24. unicode : universal encoding 32 bits
 25. UTF-8 : Unicode Transformation Format 8 Bits.（常用字符用8bits, 其他可拓展）
 26. 16进制 hexadecimal
+27. != (not equal)
+28. == (equal)
