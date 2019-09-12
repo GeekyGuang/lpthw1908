@@ -28,4 +28,5 @@
 28. == (equal)
 29. [ left bracket ] right bracket
 30. OOP : object-oriented programming
+31. {} brace
 
